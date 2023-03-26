@@ -1,2 +1,2 @@
 # fahrnheit-celsius
-Exercise: fahrenheit to celsius conversion
+Exercise: Fahrenheit to Celsius conversion
